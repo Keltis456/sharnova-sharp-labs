@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1af28b09-38d0-42a6-aba3-afb4cdbf0af3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92882F58-11D9-44E2-9819-BF62BA26EB87/05/61e49ea1/StackTrace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsDotNet/Lab2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsDotNet/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsDotNet/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsDotNet/Lab1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsDotNet/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LabsDotNet/Logger.cs" />
+        <option value="$PROJECT_DIR$/LabsDotNet/Lab1.cs" />
+        <option value="$PROJECT_DIR$/LabsDotNet/Program.cs" />
+        <option value="$PROJECT_DIR$/LabsDotNet/Product.cs" />
+        <option value="$PROJECT_DIR$/LabsDotNet/Lab2.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bPgaXzTFkN5sYchGtCCXeOyHfB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LabsDotNet" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LabsDotNet/LabsDotNet.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af28b09-38d0-42a6-aba3-afb4cdbf0af3" name="Default Changelist" comment="" />
+      <created>1588539206687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588539206687</updated>
+      <workItem from="1588539208105" duration="13016000" />
+      <workItem from="1588553512809" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1638" height="171" key="GridCell.Tab.0.bottom" timestamp="1588553495423">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="171" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588553495423" />
+    <state width="1638" height="171" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1588548407474" />
+    <state width="1638" height="171" key="GridCell.Tab.0.center" timestamp="1588553495422">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="171" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588553495422" />
+    <state width="1638" height="171" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1588548407473" />
+    <state width="1638" height="171" key="GridCell.Tab.0.left" timestamp="1588553495421">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="171" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588553495421" />
+    <state width="1638" height="171" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1588548407472" />
+    <state width="1638" height="171" key="GridCell.Tab.0.right" timestamp="1588553495422">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="171" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588553495422" />
+    <state width="1638" height="171" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1588548407474" />
+  </component>
+</project>
