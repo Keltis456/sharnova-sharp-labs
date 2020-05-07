@@ -6,6 +6,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Lab1.cs" t="Include" />
         <e p="Lab2.cs" t="Include" />
+        <e p="Lab3.cs" t="Include" />
         <e p="LabsDotNet.csproj" t="IncludeRecursive" />
         <e p="Logger.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -22,6 +23,6 @@
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_LabsDotNet.702108978.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_LabsDotNet.-961744539.00" t="ExcludeRecursive" />
   </component>
 </project>

@@ -21,3 +21,13 @@ C:/Users/Anatoli4-PC/source/repos/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/
 /Users/keltis/Downloads/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.AssemblyInfo.cs
 /Users/keltis/Downloads/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.dll
 /Users/keltis/Downloads/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.pdb
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/bin/Debug/netcoreapp3.1/LabsDotNet.deps.json
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/bin/Debug/netcoreapp3.1/LabsDotNet.runtimeconfig.json
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/bin/Debug/netcoreapp3.1/LabsDotNet.runtimeconfig.dev.json
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/bin/Debug/netcoreapp3.1/LabsDotNet.dll
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/bin/Debug/netcoreapp3.1/LabsDotNet.pdb
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.csprojAssemblyReference.cache
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.AssemblyInfoInputs.cache
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.AssemblyInfo.cs
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.dll
+/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/Debug/netcoreapp3.1/LabsDotNet.pdb

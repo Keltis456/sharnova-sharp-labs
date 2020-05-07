@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
+      "projectUniqueName": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
       "projectName": "LabsDotNet",
-      "projectPath": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
+      "projectPath": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
       "packagesPath": "/Users/keltis/.nuget/packages/",
-      "outputPath": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/obj/",
+      "outputPath": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/keltis/.config/NuGet/NuGet.Config"

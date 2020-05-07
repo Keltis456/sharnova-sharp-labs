@@ -150,7 +150,7 @@ namespace LabsDotNet
             Console.WriteLine(InvertDigits());
         }
 
-        private static int InvertDigits(uint K = 123456) => int.Parse(K.ToString().Reverse().ToString());
+        private static int InvertDigits(uint K = 123456) => int.Parse(new string(K.ToString().Reverse().ToArray()));
 
         private static void Task11()
         {
@@ -170,7 +170,7 @@ namespace LabsDotNet
         {
             Logger.LogTaskInfo();
 
-            float X = 0, Y = 0;
+            float X = 5, Y = 0;
             MinMax(ref X, ref Y);
             Console.WriteLine($"{X} {Y}");
         }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
+    "projectUniqueName": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
     "projectName": "LabsDotNet",
-    "projectPath": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
-    "outputPath": "/Users/keltis/Downloads/LabsDotNet/LabsDotNet/obj/",
+    "projectPath": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/LabsDotNet.csproj",
+    "outputPath": "/Users/keltis/_prj/sharnova-sharp-labs/LabsDotNet/LabsDotNet/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
