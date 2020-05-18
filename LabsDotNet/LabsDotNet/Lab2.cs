@@ -15,11 +15,11 @@ namespace LabsDotNet
             Task6();
             Task7();
             Task8();
-            Task9();
+            Console.WriteLine(Task9());
             Task10();
             Task11();
             Task12();
-            Task13();
+            Console.WriteLine(Task13(5,3,4,5,1));
             Task14();
             Task15();
             Task16();
@@ -156,7 +156,7 @@ namespace LabsDotNet
         {
             Logger.LogTaskInfo();
 
-            TrianglePS(0, out var P, out var S);
+            TrianglePS(20, out var P, out var S);
             Console.WriteLine($"{P} {S}");
         }
 
@@ -194,7 +194,7 @@ namespace LabsDotNet
         {
             Logger.LogTaskInfo();
 
-            DigitSum(1234);
+            Console.WriteLine(DigitSum(1234));
         }
 
         private static int DigitSum(int K)

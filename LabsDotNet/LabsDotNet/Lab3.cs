@@ -7,18 +7,98 @@ namespace LabsDotNet
     {
         public Lab3()
         {
-            new TvSet();
-            new Student();
+            Task1();
+            Task2();
+            Task3();
+            Task4();
+            Task5();
+            Task6();
+            Task7();
+            Task8();
+        }
+
+        private static void Task1()
+        {
+            Logger.LogTaskInfo();
+            
+            var tvset = new TvSet();
+            tvset.SetChannel(5);
+            tvset.PrevChannel();
+            tvset.NextChannel();
+            Console.WriteLine(tvset.Channel);
+        }
+        
+        private static void Task2()
+        {
+            Logger.LogTaskInfo();
+
+            Console.WriteLine(new Student("Ivan", 3, false));
+            Console.WriteLine(new Student("Karl"));
+            Console.WriteLine(new Student("Karoline", award: true));
+        }
+
+        private static void Task3()
+        {
+            Logger.LogTaskInfo();
+
+            var audio = new Audio {Volume = 90};
+            Console.WriteLine("Audio volume set to " + audio.Volume);
+        }
+        
+        private static void Task4()
+        {
+            Logger.LogTaskInfo();
+
+            var fridge = new Fridge();
+            fridge.Enable();
+            fridge.ChangeMode(Fridge.Mode.Frost);
+        }
+        
+        private static void Task5()
+        {
+            Logger.LogTaskInfo();
+
+            var circle = new Circle(Vector2.Zero, 100);
+            Console.WriteLine(circle.GetLength());
+            Console.WriteLine(circle.IsInCircle(Vector2.One));
+            Console.WriteLine(circle);
+        }
+        
+        
+        private static void Task6()
+        {
+            Logger.LogTaskInfo();
+
+            Console.WriteLine(new Geometric(Vector2.Zero));
+            new GeometricCircle(Vector2.One, 5).Draw();
+            new GeometricTriangle(Vector2.Zero, new Vector2(1,2),new Vector2(0,1), new Vector2(-1,5) ).Draw();
+        }
+        
+        
+        private static void Task7()
+        {
+            Logger.LogTaskInfo();
+
+            Console.WriteLine(new Square(5).Perimeter());
+            Console.WriteLine(new Cube(5).Perimeter());
+        }
+        
+        private static void Task8()
+        {
+            Logger.LogTaskInfo();
+
+            var rectangle = new Rectangle(new Vector2(50, 60), new Vector2(70, 90));
+            Console.WriteLine(rectangle + " : " + rectangle.GetHashCode());
         }
     }
 
     internal class TvSet
     {
-        private uint channel;
-        
-        public void SetChannel(uint i) => channel = i;
-        public void NextChannel() => channel++;
-        public void PrevChannel() => channel--;
+        public uint Channel { get; private set; }
+
+        public void SetChannel(uint i) => Channel = i;
+        public void NextChannel() => Channel++;
+        public void PrevChannel() => Channel--;
     }
     
     internal class Student
@@ -33,6 +113,8 @@ namespace LabsDotNet
             this.course = course;
             this.award = award;
         }
+
+        public override string ToString() => $"Student {name} of {course} course with {award} award";
     }
 
     internal class Audio
@@ -119,7 +201,7 @@ namespace LabsDotNet
     {
         protected readonly Vector2 Center;
 
-        protected Geometric(Vector2 center)
+        public Geometric(Vector2 center)
         {
             this.Center = center;
         }
@@ -161,12 +243,12 @@ namespace LabsDotNet
     {
         protected readonly float A;
 
-        protected Square(float a)
+        public Square(float a)
         {
             this.A = a;
         }
 
-        protected virtual float Perimeter() => A * 4;
+        public virtual float Perimeter() => A * 4;
     }
 
     internal class Cube : Square
@@ -175,7 +257,7 @@ namespace LabsDotNet
         {
         }
 
-        protected override float Perimeter() => A * 12;
+        public override float Perimeter() => A * 12;
     }
 
     internal class Rectangle
