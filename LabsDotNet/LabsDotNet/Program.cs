@@ -1,8 +1,4 @@
-﻿
-using System;
-using System.Threading;
-
-namespace LabsDotNet
+﻿namespace LabsDotNet
 {
     internal static class Program
     {
@@ -11,8 +7,8 @@ namespace LabsDotNet
             //new Lab1();
             //new Lab2();
             //new Lab3();
-            new Lab4();
+            //new Lab4();
+            new Lab5();
         }
     }
-
 }

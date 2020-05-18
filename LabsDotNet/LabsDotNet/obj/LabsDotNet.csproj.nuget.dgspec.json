@@ -35,6 +35,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "DocX": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
